@@ -1,4 +1,4 @@
-# Gargantua's Army
+# Zinga & Co
 
 A personal team of themed AI employees that runs inside [Claude Code](https://claude.com/claude-code). You describe a task and the output you want. **Nick Fury** plans the work and hands it from one specialist to the next: research, requirements, design, build, test, security, docs, deploy and support.
 
@@ -12,7 +12,7 @@ Requires Claude Code. The repo is its own local marketplace.
 
 ```
 /plugin marketplace add ~/gargantuas-army
-/plugin install gargantuas-army@gargantuas-army
+/plugin install zinga-and-co@zinga-and-co
 ```
 
 After pulling changes, run `/reload-plugins`. Check the manifest with `claude plugin validate .`.
